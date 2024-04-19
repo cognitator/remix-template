@@ -2,6 +2,12 @@
 
 📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
 
+## Install with remix template
+
+```sh
+npx create-remix@latest --template https://github.com/cognitator/remix-template/tree/main
+```
+
 ## Development
 
 Run the Vite dev server:
